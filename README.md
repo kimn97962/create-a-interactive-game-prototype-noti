@@ -1,2 +1,19 @@
-# create-a-interactive-game-prototype-noti
-A interactive game prototype with a notifier feature.
+# Create A Interactive Game Prototype Notifier
+
+This repository contains an auto-generated JavaScript file for:
+
+- create a interactive game prototype notifier
+- **Language**: JavaScript
+
+## Description
+
+This file serves as a base implementation for the concept: *create a interactive game prototype notifier*.  
+It can be used for educational, prototyping, or inspiration purposes.
+
+## How to Use
+
+Clone the repo, open `0ivw_create_a_intera.js` and extend or run it according to your needs.
+
+---
+
+
